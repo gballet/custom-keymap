@@ -837,6 +837,8 @@ xkb_symbols "altgr-intl" {
    key <AC07> { [        j, J,           idiaeresis,   Idiaeresis      ] };
    key <AB02> { [        x, X,           oe,           OE              ] };
    key <AB04> { [        v, V,           registered,   registered      ] };
+   key <AC04> { [        f, F,           eacute,       Eacute          ] };
+   key <AC06> { [        h, H,           ucircumflex,  Ucircumflex     ] };
 
    key <AC01> { [	 a, A,           agrave,           Agrave ] };
    key <AD07> { [	 u, U,           ugrave,           Ugrave ] };
